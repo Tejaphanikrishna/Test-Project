@@ -1,3 +1,0 @@
-This is file2 in master
-My name is developer1
-Iam from Hyderabad 
